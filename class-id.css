@@ -1,0 +1,22 @@
+.class{
+   background-color: aquamarine;
+    color: darkblue;
+    font-size: 40px;
+   font-family: cursive
+    }
+#id{
+    text-align: center;
+    background-color: antiquewhite;
+    color: blue;
+    font font-size: 30px;
+    font-family: fantasy;
+}
+.other-class{
+    margin: 30px;
+    color: black;
+}
+#other-id{
+    margin: 40px;
+    color: darkblue;
+    background-color: bisque;                        
+}
